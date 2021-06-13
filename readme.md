@@ -1,13 +1,13 @@
 # Basic Three.js Project
-Written By [@itsanshulverma](https://github.com/itsanshulverma)
-<br />
-<img alt="Plot comparison of Heap Sort and nlogn" src="https://github.com/itsanshulverma/threejs-basic/blob/main/out.png" width="540px" />
-<br />
+*Written By [@itsanshulverma](https://github.com/itsanshulverma)*
+<br /> <br />
+<img alt="output image" src="https://github.com/itsanshulverma/threejs-basic/blob/main/out.png" width="720px" />
+<br /><br />
 *Boilerplate code is from [Three.js Starter](https://github.com/designcourse/threejs-webpack-starter)*
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
-Run this followed commands:
+Run the followed commands:
 
 ``` bash
 # Install dependencies (only the first time)
