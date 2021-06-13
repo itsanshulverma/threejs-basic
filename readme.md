@@ -1,5 +1,7 @@
-# Three.js Starter
-Courtesy of Bruno Simon of https://threejs-journey.xyz/
+# Basic Three.js Project
+
+<br />
+Boilerplate code is from [Three.js Starter](https://github.com/designcourse/threejs-webpack-starter)
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
