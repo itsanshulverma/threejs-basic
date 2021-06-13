@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@900&display=swap');
+
 *
 {
     margin: 0;
@@ -5,16 +7,30 @@
 }
 
 html,
-body
-{
+body {
     height: 100vh;
-    font-family: 'Poppins';
+    font-family: 'Noto Sans JP', sans-serif;
+    background: rgb(15, 15, 15);
 }
 
-.webgl
-{
+.webgl {
     position: fixed;
     top: 0;
     left: 0;
     outline: none;
+    /* Making Transparent */
+    mix-blend-mode: exclusion;
+}
+
+.container {
+    display: grid;
+    height: 100vh;
+    place-items: center;
+}
+
+h1 {
+    font-size: 4rem;
+    text-transform: uppercase;
+    color: white;
+    text-align: center;
 }
