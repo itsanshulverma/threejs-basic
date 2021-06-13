@@ -1,7 +1,9 @@
 # Basic Three.js Project
-
+Written By [@itsanshulverma](https://github.com/itsanshulverma)
 <br />
-Boilerplate code is from [Three.js Starter](https://github.com/designcourse/threejs-webpack-starter)
+<img alt="Plot comparison of Heap Sort and nlogn" src="https://github.com/itsanshulverma/threejs-basic/blob/main/out.png" width="540px" />
+<br />
+*Boilerplate code is from [Three.js Starter](https://github.com/designcourse/threejs-webpack-starter)*
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
